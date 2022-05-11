@@ -1,3 +1,16 @@
-.container {
-    background-color: aliceblue;
-}
+body {
+    background-image:url("images/masala-g1ce6af377_1920.jpg") ;
+    background-repeat: no-repeat;
+    background-size:cover;
+  }
+  ul.dashed {
+    list-style-type:square;
+  }
+  #col-border {
+border-style:solid;
+border-radius: 10%;
+  }
+ h2 {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif', cursive;
+    text-align:center;
+ }
